@@ -1,5 +1,5 @@
 ## Assignment 1
-Print "Hello, World!" to the terminal
+打印hello world 到终端
 
 ## Example Output
 ```terminal_session
